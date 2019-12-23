@@ -1,7 +1,8 @@
 def parrot 
   puts "Squawk!"
   
-  parrot
+  puts parrot
+
 end
  
   
